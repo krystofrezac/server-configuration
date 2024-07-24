@@ -1,0 +1,10 @@
+version: 1
+source:
+  github:
+    owner: krystofrezac
+    repository: rylis
+    revision: dbea7f7e70b2422f6a2817cf11e3f6fa3c63979b
+runtime:
+  routes:
+    - port: 8000
+      url: rylis.localhost
